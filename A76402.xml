@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from the Lord General Crumwel to the communalty of the kingdom of Scotland. With the advance of Col. Hackers regiment to the borders. And a fight between a party of the Parliaments horse, and some of the Scots forces, on the borders of Scotland also the Lord Generals alarm to the Scots and a proclamation made at the cross of Edenburgh touching the coronation of their King.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76402</idno>
+            <idno type="STC">Wing B189</idno>
+            <idno type="STC">Thomason E608_8</idno>
+            <idno type="STC">ESTC R205908</idno>
+            <idno type="EEBO-CITATION">99865138</idno>
+            <idno type="PROQUEST">99865138</idno>
+            <idno type="VID">165695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165695)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from the Lord General Crumwel to the communalty of the kingdom of Scotland. With the advance of Col. Hackers regiment to the borders. And a fight between a party of the Parliaments horse, and some of the Scots forces, on the borders of Scotland also the Lord Generals alarm to the Scots and a proclamation made at the cross of Edenburgh touching the coronation of their King.</title>
+                  <author>T. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.J. and are to be sold at the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: T.B.</note>
+                  <note>Annotation on Thomason copy: "July 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165695:1" rendition="simple:additions"/>
+            <p>A MESSAGE FROM THE Lord General Crumwel To the Communalty of the KINGDOM OF <hi>SCOTLAND.</hi>
+            </p>
+            <p>WITH The advance of Col. Hackers Regiment to the Borders. And a fight between a party of the Par<g ref="char:EOLhyphen"/>liaments horſe, and ſome of the Scots forces, on the Borders of SCOTLAND ALSO The Lord Generals Alarm to the Scots and a <hi>Proclamation</hi> made at the Croſs of <hi>Edenburgh</hi> touching the Coronation of their King.</p>
+            <p>LONDON <hi>Printed for</hi> J. J. <hi>and are to be ſold at the</hi> Royal Ex<g ref="char:EOLhyphen"/>change, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <div n="13 July 1650" type="part">
+               <pb facs="tcp:165695:2"/>
+               <pb n="1" facs="tcp:165695:2"/>
+               <head>
+                  <hi>The laſt Proceedings of the</hi> Scots <hi>Army, under the Command of the Lord of</hi> Rexbrough, <hi>and Col.</hi> Scot.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>S for News, I have little at preſent to ſend, having as yet no action, but that of moſt concernment is as follows, <hi>viz.</hi> That there are Orders from the <hi>Parliament</hi> of <hi>Scotland,</hi> to have all their men, <hi>Foot</hi> and <hi>Horſe,</hi> at <hi>Auchrom<g ref="char:EOLhyphen"/>bridge</hi> on <hi>Thurſday July</hi> 18. that are raiſed in the ſhire<g ref="char:EOLhyphen"/>dom of <hi>Tiverdale.</hi> The Lord of <hi>Rexbrough</hi> and Col. <hi>Scot</hi> is to Command them. The general Randezvous is to be at <hi>Sterling,</hi> but theſe do not march there, but quarter in <hi>Tinedale,</hi> till further Orders: they expect daily a return of him that was ſent the laſt week into <hi>England;</hi> there is a ſtrange forwardneſs amongſt the <hi>Nobles</hi> and <hi>Gentlemen</hi> of <hi>England,</hi> but the poor <hi>Commons</hi> go on ſlowly with much fear; the number they are raiſing, is 10000. and 3000. The people are much
+<pb n="2" facs="tcp:165695:3"/> heightned at the Kings coming into that <hi>Nation,</hi> ſince the time whereof there hath been more Wine and Bear drank (as ſome conceive) then was in half a year before, for in each Company they carouſe the Kings health 5 or 6 times, ſo that a man can go into no Town or Village, but he ſhall eſpy the people drunk up and down ſtreets: The Miniſters preſs the people to a for<g ref="char:EOLhyphen"/>wardneſs to ſerve the King, telling them that God will certainly blaſt the <hi>Engliſh</hi> Army, for it conſiſts of none but Sectaries, and ſuch as had a hand in the <hi>Kings</hi> death, publiſhing it in their Pulpits, that <hi>Cromwel</hi> hath no men left in <hi>Ireland,</hi> but a few that is fled into Gari<g ref="char:EOLhyphen"/>ſons; and that there is already 150 raiſed in <hi>Wales</hi> for the Kings ſervice, with many thouſands more in other places. There was a Regiment of Foot and a Troop of Horſe, that came through <hi>Galloway,</hi> and marched be<g ref="char:EOLhyphen"/>twixt <hi>Dunfrize</hi> and <hi>Amand</hi> Eaſtward; it is reported that it was my Lord of <hi>Arg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les</hi> Regiment, and that they were marching towards <hi>Duvolaw.</hi>
+               </p>
+               <p>From <hi>Dunfrize</hi> the 7. inſtant, and he ſaith that it is reported there, that old Gen. <hi>Leſley,</hi> and Maj. Gen. <hi>Holburn,</hi> intends to march with their Foot towards <hi>Dunflaw</hi> with all ſpeed, and <hi>David Leſley</hi> is at <hi>Hume</hi> Caſtle ere this. They are raiſing their new Leavies a pace, <hi>Galloway</hi> and <hi>Liddal,</hi> but want of Arms and mo<g ref="char:EOLhyphen"/>ney hinders much; they brag much of ſupplies of money and Arms from <hi>France, Denmark, Swethland,</hi> and <hi>Holland,</hi> but they are like to be but ſlenderly fur<g ref="char:EOLhyphen"/>niſhed, there divers Gentlemen of the South part of <hi>Scotland,</hi> are ſending their Plate to <hi>Starling,</hi> thinking it abſolute ſecure there. Their King as we hear, re<g ref="char:EOLhyphen"/>mains ſtill at <hi>Starling,</hi> at the Kings houſe there, till ſuch time as more conveniences be made for him at <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi>
+                  <pb n="3" facs="tcp:165695:3"/> 10000 l. of the new Leavies is thought to be compleated within theſe eight days, then they ſay they hop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſhall not be long out of <hi>England,</hi> if our Ar<g ref="char:EOLhyphen"/>my prevent them not, for they are ſenſible enough, that it is eaſier to maintain 2 or 3 in <hi>England,</hi> then one in <hi>Scotland.</hi>
+               </p>
+               <p>Out of <hi>France</hi> they have intelligence by letters to this purpoſe. The <hi>Spaniſh</hi> Army in <hi>Flanders</hi> is ſtill about 6 miles from <hi>Guiſe,</hi> they being on the one ſide, and ours on the other ſide, both Armies are ſtrong, and are near equal, therefore ſome conceive little expedi<g ref="char:EOLhyphen"/>tion will be done by neither ſide, but only ſpend the Summer in watching narrowly each other, and ſeek for ſome furpriſall.</p>
+               <p>The <hi>Scilly</hi> Shallops are buſie about our Coaſts, ſhel<g ref="char:EOLhyphen"/>tering themſelves in every Cave and Creek, where they lurk for their prey, and catch up all the ſeveral Veſſels that float two and again: Thoſe Iſlands are very ſtrong they have cut through <hi>Cerſoneſſus,</hi> upon which the great Caſtle ſtandeth, which is now inviron'd with the Sea, and mainly fortified, ſo are other ſmall Iſlands there<g ref="char:EOLhyphen"/>abouts; our Militia is drawn into a very good Order, and we have good cauſe to think that the Cavalier de<g ref="char:EOLhyphen"/>ſign upon this County, ſo ſtudiouſly and ſubtilly car<g ref="char:EOLhyphen"/>ried on is very much crakt, and if the expected act for ſetling the <hi>Militia</hi> be haſtened, and thereby proviſion made for the arming and paying of men, I am confi<g ref="char:EOLhyphen"/>dent their hopes will be utterly broken.</p>
+               <closer>
+                  <dateline>Pendennis Caſtle, <date>July 13. 1650.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div n="15 July 1650" type="part">
+               <pb n="4" facs="tcp:165695:4"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>July</hi> 15.</date>
+                  </dateline>
+               </opener>
+               <p>My Lord General marches towards <hi>Bar<g ref="char:EOLhyphen"/>wick,</hi> betwixt which place and <hi>Anwick</hi> will be a ran<g ref="char:EOLhyphen"/>dezvous of the Army, <hi>Wedneſday</hi> or <hi>Thurſday</hi> next.</p>
+               <p>The reaſon of our ſtay ſo long in this Town is, for that many of the Foot-Regiments, and ſome Horſe were not come up: There paſſed through this Town this laſt week, <hi>viz.</hi> Col. <hi>Prides, Malivers Fairfax,</hi> and the late Generalls, Col. <hi>Daniels</hi> Foot-Regiment having a long march out of <hi>Cheſhire,</hi> are not yet come up, but expected this day at <hi>Durham,</hi> beſides Proviſions of Victuals, which the Army muſt have of them of ne<g ref="char:EOLhyphen"/>ceſſity, when they go into the barren Nation of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> are not yet ready, but will be at <hi>Barwick</hi> by that time we be there, having been ſhipt this week from hence, I had ſent you a Copy of the <hi>Declaration</hi> of the Army, concerning their advance into <hi>Scotland,</hi> but I conceive it will as ſoon come to your hands by the Copy ſent up to the Parl. There are 3 Copies of it in writing, ſigned by Mr. <hi>Ruſhworth,</hi> Secretary to the Ar<g ref="char:EOLhyphen"/>my, to be ſent this day into <hi>Scotland, viz.</hi> one to the <hi>Scotch</hi> General, one to the <hi>Committee</hi> of <hi>Eſtates,</hi> and one to the <hi>Parliament.</hi>
+               </p>
+               <p>We are informed that ſome <hi>Scottiſh Miniſters,</hi> late<g ref="char:EOLhyphen"/>ly in their Prayers againſt the <hi>Sectarian Army,</hi> expreſ<g ref="char:EOLhyphen"/>ſed to this effect: that if God would not deliver them from the <hi>Sectaries,</hi> they would not have him to be their God. Their Levies go on a pace, and the <hi>Prieſts</hi> are to raiſe 2000. Horſe, under the Command of Major <hi>Strangham,</hi> and another on <hi>Bodnifield,</hi> they being jea<g ref="char:EOLhyphen"/>lous of the Committee of Eſtates<g ref="char:punc">▪</g> ſo that on the <hi>Scot<g ref="char:EOLhyphen"/>tiſh</hi> part you may properly call this third War <hi>Bellum Presbyteriale.</hi> And we hear further, that <hi>Aberdeen</hi> hath preſented their <hi>King</hi> with 1000 l. which he diſtribu<g ref="char:EOLhyphen"/>ted preſently.</p>
+               <pb n="5" facs="tcp:165695:4"/>
+               <p>The City of <hi>Edenburgh</hi> hath prepared a piece of plate to preſent to their King upon his coming thither. The Nobility and Gentry of the North of <hi>Scotland,</hi> preſen<g ref="char:EOLhyphen"/>ted their ſervice to their King, and offered to ride as a Life-Guard to his perſon. The Kirk perceive he be<g ref="char:EOLhyphen"/>gins to be very popular, and fear much he will over<g ref="char:EOLhyphen"/>top their power, and thereupon there are high jealoſies amongſt them, which is conceiv'd will breed much di<g ref="char:EOLhyphen"/>ſtraction in that Kingdom. The Marq. <hi>of Argile</hi> is an abſolute Ryoliſt and hath made a ſpeech to their de<g ref="char:EOLhyphen"/>clared King to this effect <hi>viz.</hi>
+                  <q>
+                     <p>1. <hi>That to Kings was given abſolute power to revenge injuries, and tomaintaine the honor and reputation of his Councels. 2. That the difference betwixt Kings and Tyrants is only this; The one taketh care for the Common good, the other ſtudieth only for private and voluptuous living. 3. That he ſhould be wiſe and valiant, and give incouragement to the Army by his perſonal preſence, or o<g ref="char:EOLhyphen"/>therwiſe, as he ſhould from time to time, receive advice from the Kirk and thoſe that are about him.</hi>
+                     </p>
+                  </q>
+               </p>
+            </div>
+            <div n="16 July 1650" type="part">
+               <opener>
+                  <dateline>Newcaſtle <date>July. 16.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Sir,</hi> This day the Gen. and his Officers marched a<g ref="char:EOLhyphen"/>way to <hi>Morpeth,</hi> the Artillery and moſt of the Army are beyond it, and intend to have a Randezvouz about <hi>Alnwick;</hi> we hear ſome of the <hi>Scots horſe</hi> are upon the borders, Col. <hi>Hackers</hi> Regiment hath the Van, and were ordered to go yeſterday for the Borders to keep guard there. There is a Meſſage ſent from the Gen. to the Kingdom of <hi>Scotland,</hi> chiefly for the common ſort of people perſwading them to ſtay in their hou<g ref="char:EOLhyphen"/>ſes, and they ſhall be preſerved.
+<pb n="6" facs="tcp:165695:5"/> 
+                  <hi>Newcaſtle—Sir,</hi> we are advertized by letters from the Head-quarters, That upon the Lord Generals advance towards <hi>Barwick,</hi> the borders took the Alarm, and from thence to the whole Nation of <hi>Scots</hi> were much ſtartled; but they will have further cauſe ſhortly. And Capt. <hi>Hall</hi> hath ſent a <hi>Scotch</hi> Veſſel in hither which he took coming from <hi>Okeney,</hi> with 1000 Arms and 500 Barrels of Butter going to <hi>Leeth.</hi> It is alſo repor<g ref="char:EOLhyphen"/>ted that there hath been ſome diſpute between a party of the <hi>Scots</hi> horſe and ſome of ours, but the re<g ref="char:EOLhyphen"/>ſolute charge of our undaunted horſe cauſed a ſudden retreat. We have as yet no credible relation of any action which hath been to purpoſe, but the next I hope will produce more. Sir I remain,</p>
+            </div>
+            <closer>
+               <signed>Your humble Servant, T. B.</signed>
+            </closer>
+            <trailer>EINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
